@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Medal
+comment0.text=\r\n\ The\ Medals\ class\ creates\ medals\ which\r\n\ are\ featured\ in\ the\ Achievement\ Page.\r\n\ \r\n\ Aninda\r\n\ Nov\ 9,\ 2021\r\n
+comment1.params=num
+comment1.target=void\ medalUpdate(int)
+numComments=2
